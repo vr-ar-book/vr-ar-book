@@ -1,0 +1,2 @@
+## [Figures from the book Virtual and Augmented Reality](https://github.com/vr-ar-book/vr-ar-book/tree/main/Figures "Figures")
+Here you will find illustrations from previous editions of the book in electronic form. These may be used for non-commercial purposes in an academic environment (e.g., for lecture slides, seminar papers), but the attached reference to the respective copyright must be retained.
