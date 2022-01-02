@@ -4,13 +4,13 @@
 Springer 2022, 1st ed.
 
 ## Online material 
-### Figures from the book
+### [Figures from the book](https://github.com/vr-ar-book/vr-ar-book/tree/main/Figures "Figures")
 Here you will find illustrations from previous editions of the book in electronic form. These may be used for non-commercial purposes in an academic environment (e.g., for lecture slides, seminar papers), but the attached reference to the respective copyright must be retained.
 
-### Chapter 10: Authoring of VR/AR Applications
+### [Chapter 10: Authoring of VR/AR Applications](https://github.com/vr-ar-book/vr-ar-book/tree/main/Chapter 10/ "Chapter 10")
 #### Source code for making-of examples (pages: 385-398)
 
--  10.3.1: Immersive VR Presentation of CAD Files 385 with the Vive Cosmos in Unity (Vive Cosmos, Unity)
+-  [10.3.1: Immersive VR Presentation of CAD Files 385 with the Vive Cosmos in Unity (Vive Cosmos, Unity)](https://github.com/vr-ar-book/vr-ar-book/tree/main/Chapter 10/10.3.1)
 
 - 10.3.2: Interaction in VR Using the Vive Cosmos and Unreal Engine (Vive Cosmos, Unreal Engine)
 
