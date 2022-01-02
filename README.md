@@ -1,14 +1,14 @@
 # Virtual and Augmented Reality (VR / AR)
 ### Foundations and Methods of Extended Realities
-## Doerner, Ralf; Broll, Wolfgang; Grimm, Paul; and Jung, Bernhard (eds.)
+## Ralf Doerner, Wolfgang Broll, Paul Grimm, and Bernhard Jung (eds.)
 Springer 2022, 1st ed.
 
-## This respository contains additional material 
+## Online material 
 ### Figures from the book
 Here you will find illustrations from previous editions of the book in electronic form. These may be used for non-commercial purposes in an academic environment (e.g., for lecture slides, seminar papers), but the attached reference to the respective copyright must be retained.
 
 ### Chapter 10 Authoring of VR/AR Applications
-#### Source code for making-of examples (chapter 10)
+#### Source code for making-of examples (pages: 385-398)
 
 -  10.3.1: Immersive VR Presentation of CAD Files 385 with the Vive Cosmos in Unity (Vive Cosmos, Unity)
 
