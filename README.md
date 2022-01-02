@@ -7,7 +7,7 @@ Springer 2022, 1st ed.
 ### Figures from the book
 Here you will find illustrations from previous editions of the book in electronic form. These may be used for non-commercial purposes in an academic environment (e.g., for lecture slides, seminar papers), but the attached reference to the respective copyright must be retained.
 
-### Chapter 10 Authoring of VR/AR Applications
+### Chapter 10: Authoring of VR/AR Applications
 #### Source code for making-of examples (pages: 385-398)
 
 -  10.3.1: Immersive VR Presentation of CAD Files 385 with the Vive Cosmos in Unity (Vive Cosmos, Unity)
